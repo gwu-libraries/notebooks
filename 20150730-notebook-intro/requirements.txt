@@ -1,0 +1,5 @@
+ipython[notebook]
+julia
+matplotlib
+pandas
+rpy2
