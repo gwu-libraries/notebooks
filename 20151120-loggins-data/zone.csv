@@ -1,0 +1,15 @@
+id,name,display_order,floor_id
+1,Lower Level,0,1
+2,1st Floor,1,2
+3,Entrance Floor,2,3
+4,Lab @ Entrance Floor,3,3
+5,3rd Floor,4,4
+6,4th Floor,5,5
+7,5th Floor,6,6
+8,6th Floor,7,7
+9,7th Floor,8,8
+10,Global Resources Center,9,8
+11,Special Collections,10,8
+12,Main,0,9
+13,2nd Floor,1,10
+14,Main,0,11
